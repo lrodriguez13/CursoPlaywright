@@ -24,4 +24,6 @@ npx playwright codegen https://demoqa.com/text-box
 7. git checkout -- .
 8. git checout commit especifico
 9. git checkout -f Rama
-10 git checkout -- nombre archivo
+10. git checkout -- nombre archivo
+11. git log --online --decorate --all --graph
+12. 
