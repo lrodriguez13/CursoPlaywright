@@ -13,3 +13,15 @@ npx playwright test Demo2.spec.js Demo3.spec.js -- headed
 
 5. Generar desde codegen
 npx playwright codegen https://demoqa.com/text-box
+
+-- Comandos git
+1. git init
+2. git status
+3. git log
+4. git add .
+5. git add *.doc
+6. git commit -m "Demo comit"
+7. git checkout -- .
+8. git checout commit especifico
+9. git checkout -f Rama
+10 git checkout -- nombre archivo
