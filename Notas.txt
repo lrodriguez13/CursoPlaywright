@@ -1,0 +1,15 @@
+1. Instalar con npm
+npm init playwright@latest
+
+2. Run
+npx playwright test
+npx playwright test --headed
+
+3. Reporte
+npx playwright show-report
+
+4. Ejecutar conjunto de test
+npx playwright test Demo2.spec.js Demo3.spec.js -- headed
+
+5. Generar desde codegen
+npx playwright codegen https://demoqa.com/text-box
