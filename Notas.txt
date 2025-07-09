@@ -26,4 +26,8 @@ npx playwright codegen https://demoqa.com/text-box
 9. git checkout -f Rama
 10. git checkout -- nombre archivo
 11. git log --online --decorate --all --graph
-12. 
+
+UPLOAD PROJECT TO GITHUB
+12. git remote add origin https://github.com/lrodriguez13/CursoPlaywright.git
+13. git branch -M main
+14. git push -u origin maing
