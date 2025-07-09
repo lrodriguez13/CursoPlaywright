@@ -31,3 +31,4 @@ UPLOAD PROJECT TO GITHUB
 12. git remote add origin https://github.com/lrodriguez13/CursoPlaywright.git
 13. git branch -M main
 14. git push -u origin maing
+15. git pull --> get info from github
