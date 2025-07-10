@@ -14,6 +14,14 @@ npx playwright test Demo2.spec.js Demo3.spec.js -- headed
 5. Generar desde codegen
 npx playwright codegen https://demoqa.com/text-box
 
+6. Actions https://playwright.dev/docs/input#text-input
+
+7. Trace Resultados
+npx playwright show-trace trace.zip
+
+8. Cargar archivos de node_modules
+npm install
+
 -- Comandos git
 1. git init
 2. git status
